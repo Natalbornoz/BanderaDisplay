@@ -1,0 +1,18 @@
+.yellow{
+  background-color: yellow;
+  padding-bottom: 3em;
+  width: 200px;
+  heigth: 100px;
+}
+.gray{
+  background-color: gray;
+  padding-bottom: 3em;
+  width: 200px;
+  heigth: 100px;
+}
+h4,p{
+  padding: 0.4em;
+}
+p{
+  color: white;
+}
